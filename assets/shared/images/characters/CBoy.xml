@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CBoy.png">
+<SubTexture name="CBoy IDLE0000" x="163" y="34" width="33" height="33" frameX="-12" frameY="-26" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy IDLE0001" x="163" y="34" width="33" height="33" frameX="-12" frameY="-26" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy IDLE0002" x="96" y="112" width="32" height="35" frameX="-14" frameY="-24" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy IDLE0003" x="96" y="112" width="32" height="35" frameX="-14" frameY="-24" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy IDLE0004" x="131" y="37" width="32" height="36" frameX="-14" frameY="-23" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy IDLE0005" x="131" y="37" width="32" height="36" frameX="-14" frameY="-23" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy IDLE0006" x="64" y="0" width="33" height="37" frameX="-14" frameY="-22" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy RIGHT0000" x="0" y="38" width="32" height="37" frameX="-19" frameY="-22" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy RIGHT0001" x="0" y="38" width="32" height="37" frameX="-19" frameY="-22" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy RIGHT0002" x="32" y="38" width="33" height="37" frameX="-16" frameY="-22" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy RIGHT0003" x="32" y="38" width="33" height="37" frameX="-16" frameY="-22" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy LEFT0000" x="97" y="0" width="34" height="37" frameX="-10" frameY="-22" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy LEFT0001" x="97" y="0" width="34" height="37" frameX="-10" frameY="-22" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy LEFT0002" x="97" y="37" width="32" height="37" frameX="-13" frameY="-22" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy LEFT0003" x="97" y="37" width="32" height="37" frameX="-13" frameY="-22" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy UP0000" x="0" y="0" width="32" height="38" frameX="-16" frameY="-21" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy UP0001" x="0" y="0" width="32" height="38" frameX="-16" frameY="-21" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy UP0002" x="131" y="73" width="32" height="36" frameX="-16" frameY="-23" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy UP0003" x="131" y="73" width="32" height="36" frameX="-16" frameY="-23" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy DOWN0000" x="128" y="112" width="33" height="34" frameX="-13" frameY="-25" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy DOWN0001" x="128" y="112" width="33" height="34" frameX="-13" frameY="-25" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy DOWN0002" x="0" y="112" width="32" height="36" frameX="-14" frameY="-23" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy DOWN0003" x="0" y="112" width="32" height="36" frameX="-14" frameY="-23" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy VPOSE0000" x="0" y="75" width="33" height="37" frameX="-14" frameY="-22" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy VPOSE0001" x="0" y="75" width="33" height="37" frameX="-14" frameY="-22" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy VPOSE0002" x="0" y="75" width="33" height="37" frameX="-14" frameY="-22" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy VPOSE0003" x="0" y="75" width="33" height="37" frameX="-14" frameY="-22" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy VPOSE0004" x="0" y="75" width="33" height="37" frameX="-14" frameY="-22" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy missright0000" x="65" y="38" width="32" height="37" frameX="-20" frameY="-22" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy missright0001" x="65" y="38" width="32" height="37" frameX="-20" frameY="-22" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy missright0002" x="33" y="75" width="33" height="37" frameX="-17" frameY="-22" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy missright0003" x="33" y="75" width="33" height="37" frameX="-17" frameY="-22" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy missleft0000" x="66" y="75" width="34" height="37" frameX="-10" frameY="-22" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy missleft0001" x="66" y="75" width="34" height="37" frameX="-10" frameY="-22" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy missleft0002" x="131" y="0" width="32" height="37" frameX="-13" frameY="-22" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy missleft0003" x="131" y="0" width="32" height="37" frameX="-13" frameY="-22" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy missup0000" x="32" y="0" width="32" height="38" frameX="-16" frameY="-21" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy missup0001" x="32" y="0" width="32" height="38" frameX="-16" frameY="-21" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy missup0002" x="32" y="112" width="32" height="36" frameX="-16" frameY="-23" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy missup0003" x="32" y="112" width="32" height="36" frameX="-16" frameY="-23" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy missdown0000" x="163" y="0" width="33" height="34" frameX="-13" frameY="-25" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy missdown0001" x="163" y="0" width="33" height="34" frameX="-13" frameY="-25" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy missdown0002" x="64" y="112" width="32" height="36" frameX="-14" frameY="-23" frameWidth="48" frameHeight="48" />
+<SubTexture name="CBoy missdown0003" x="64" y="112" width="32" height="36" frameX="-14" frameY="-23" frameWidth="48" frameHeight="48" />
+</TextureAtlas>

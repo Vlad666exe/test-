@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CMario.png">
+<SubTexture name="CMario idle0000" x="90" y="82" width="34" height="38" frameX="-15" frameY="-21" frameWidth="48" frameHeight="48" />
+<SubTexture name="CMario idle0001" x="90" y="82" width="34" height="38" frameX="-15" frameY="-21" frameWidth="48" frameHeight="48" />
+<SubTexture name="CMario idle0002" x="28" y="82" width="31" height="39" frameX="-16" frameY="-20" frameWidth="48" frameHeight="48" />
+<SubTexture name="CMario idle0003" x="28" y="82" width="31" height="39" frameX="-16" frameY="-20" frameWidth="48" frameHeight="48" />
+<SubTexture name="CMario idle0004" x="61" y="0" width="31" height="40" frameX="-16" frameY="-19" frameWidth="48" frameHeight="48" />
+<SubTexture name="CMario idle0005" x="61" y="0" width="31" height="40" frameX="-16" frameY="-19" frameWidth="48" frameHeight="48" />
+<SubTexture name="CMario idle0006" x="30" y="0" width="31" height="41" frameX="-16" frameY="-18" frameWidth="48" frameHeight="48" />
+<SubTexture name="CMario left0000" x="0" y="42" width="36" height="40" frameX="-7" frameY="-19" frameWidth="48" frameHeight="48" />
+<SubTexture name="CMario left0001" x="0" y="42" width="36" height="40" frameX="-7" frameY="-19" frameWidth="48" frameHeight="48" />
+<SubTexture name="CMario left0002" x="36" y="42" width="32" height="40" frameX="-11" frameY="-19" frameWidth="48" frameHeight="48" />
+<SubTexture name="CMario left0003" x="36" y="42" width="32" height="40" frameX="-11" frameY="-19" frameWidth="48" frameHeight="48" />
+<SubTexture name="CMario right0000" x="92" y="0" width="43" height="40" frameX="-17" frameY="-19" frameWidth="48" frameHeight="48" />
+<SubTexture name="CMario right0001" x="92" y="0" width="43" height="40" frameX="-17" frameY="-19" frameWidth="48" frameHeight="48" />
+<SubTexture name="CMario right0002" x="92" y="40" width="38" height="40" frameX="-17" frameY="-19" frameWidth="48" frameHeight="48" />
+<SubTexture name="CMario right0003" x="92" y="40" width="38" height="40" frameX="-17" frameY="-19" frameWidth="48" frameHeight="48" />
+<SubTexture name="CMario up0000" x="0" y="0" width="30" height="42" frameX="-14" frameY="-17" frameWidth="48" frameHeight="48" />
+<SubTexture name="CMario up0001" x="0" y="0" width="30" height="42" frameX="-14" frameY="-17" frameWidth="48" frameHeight="48" />
+<SubTexture name="CMario up0002" x="59" y="82" width="31" height="39" frameX="-14" frameY="-20" frameWidth="48" frameHeight="48" />
+<SubTexture name="CMario up0003" x="59" y="82" width="31" height="39" frameX="-14" frameY="-20" frameWidth="48" frameHeight="48" />
+<SubTexture name="CMario down0000" x="0" y="122" width="32" height="34" frameX="-13" frameY="-25" frameWidth="48" frameHeight="48" />
+<SubTexture name="CMario down0001" x="0" y="122" width="32" height="34" frameX="-13" frameY="-25" frameWidth="48" frameHeight="48" />
+<SubTexture name="CMario down0002" x="135" y="0" width="30" height="37" frameX="-14" frameY="-22" frameWidth="48" frameHeight="48" />
+<SubTexture name="CMario down0003" x="135" y="0" width="30" height="37" frameX="-14" frameY="-22" frameWidth="48" frameHeight="48" />
+<SubTexture name="CMario hey0000" x="0" y="82" width="28" height="40" frameX="-18" frameY="-19" frameWidth="48" frameHeight="48" />
+<SubTexture name="CMario hey0001" x="0" y="82" width="28" height="40" frameX="-18" frameY="-19" frameWidth="48" frameHeight="48" />
+<SubTexture name="CMario hey0002" x="0" y="82" width="28" height="40" frameX="-18" frameY="-19" frameWidth="48" frameHeight="48" />
+<SubTexture name="CMario hey0003" x="0" y="82" width="28" height="40" frameX="-18" frameY="-19" frameWidth="48" frameHeight="48" />
+<SubTexture name="CMario hey0004" x="0" y="82" width="28" height="40" frameX="-18" frameY="-19" frameWidth="48" frameHeight="48" />
+</TextureAtlas>
